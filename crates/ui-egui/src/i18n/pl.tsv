@@ -1476,3 +1476,720 @@
 	Lines per page:	Wierszy na stronie:
 	No grid	Bez siatki
 	Text snaps to characters	Tekst przyciąga do znaków
+	AaBbCcDd	AaBbCcDd
+	Annotation Reference	Odwołanie do adnotacji
+	Annotation Subject	Temat adnotacji
+	Annotation Text	Tekst adnotacji
+	Body text in a short paragraph to show spacing.	Tekst podstawowy w krótkim akapicie pokazującym odstępy.
+	Book Title	Tytuł książki
+	Caption	Podpis
+	Category	Kategoria
+	Default Paragraph Font	Domyślna czcionka akapitu
+	Emphasis	Wyróżnienie
+	Endnote Reference	Odwołanie do przypisu końcowego
+	Endnote Text	Tekst przypisu końcowego
+	Envelope Address	Adres na kopercie
+	Envelope Return	Adres zwrotny na kopercie
+	Footnote Reference	Odwołanie do przypisu dolnego
+	Footnote Text	Tekst przypisu dolnego
+	Heading {n}	Nagłówek {n}
+	Hyperlink	Hiperłącze
+	Index Heading	Nagłówek indeksu
+	Index {n}	Indeks {n}
+	Intense Emphasis	Intensywne wyróżnienie
+	Intense Quote	Intensywny cytat
+	Intense Reference	Intensywne odwołanie
+	Keywords	Słowa kluczowe
+	Line Number	Numer wiersza
+	List Paragraph	Akapit z listą
+	No Spacing	Bez odstępów
+	Normal	Normalny
+	Normal Indent	Normalny z wcięciem
+	Normal Table	Normalna tabela
+	Quote	Cytat
+	Strong	Mocny
+	Subject	Temat
+	Subtitle	Podtytuł
+	Subtle Emphasis	Delikatne wyróżnienie
+	Subtle Reference	Delikatne odwołanie
+	Table Grid	Siatka tabeli
+	Table of Figures	Spis ilustracji
+	Title	Tytuł
+preview	Title	Tytuł
+	TOA Heading	Nagłówek spisu źródeł
+	TOC Heading	Nagłówek spisu treści
+	TOC {n}	Spis treści {n}
+	Contributors	Współtwórcy
+	Models	Modele
+	Good evening	Dobry wieczór
+	Good morning	Dzień dobry
+	Good afternoon	Dzień dobry
+	tOGGLE cASE	oDWRÓĆ wIELKOŚĆ lITER
+	Change to Level 1	Zmień na poziom 1
+	Change to Level 2	Zmień na poziom 2
+	Change to Level 3	Zmień na poziom 3
+	Change to Level 4	Zmień na poziom 4
+	Change to Level 5	Zmień na poziom 5
+	Level 1	Poziom 1
+	Level 2	Poziom 2
+	Level 3	Poziom 3
+	ASAP	PILNE — JAK NAJSZYBCIEJ
+	CONFIDENTIAL	POUFNE
+	DO NOT COPY	NIE KOPIOWAĆ
+	DRAFT	WERSJA ROBOCZA
+	SAMPLE	WZÓR
+	URGENT	PILNE
+	Letter   8.50" × 11.00"	Letter   8,50" × 11,00"
+	Legal   8.50" × 14.00"	Legal   8,50" × 14,00"
+	Executive   7.25" × 10.50"	Executive   7,25" × 10,50"
+	Statement   5.50" × 8.50"	Statement   5,50" × 8,50"
+	Tabloid   11.00" × 17.00"	Tabloid   11,00" × 17,00"
+	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10,12" × 14,33"
+	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7,17" × 10,12"
+	Envelope #10   4.12" × 9.50"	Koperta nr 10   4,12" × 9,50"
+	Envelope DL   4.33" × 8.66"	Koperta DL   4,33" × 8,66"
+	Plain Table 1	Prosta tabela 1
+	Grid Table 1 Light	Tabela z siatką 1 — jasna
+	Grid Table 4 – Blue	Tabela z siatką 4 — niebieska
+	Grid Table 4 – Green	Tabela z siatką 4 — zielona
+	Grid Table 4 – Orange	Tabela z siatką 4 — pomarańczowa
+	Grid Table 4 – Purple	Tabela z siatką 4 — fioletowa
+	List Table 3 – Blue	Tabela listy 3 — niebieska
+	List Table 3 – Green	Tabela listy 3 — zielona
+	List Table 3 – Orange	Tabela listy 3 — pomarańczowa
+	List Table 3 – Purple	Tabela listy 3 — fioletowa
+	Convert between built-up and linear form	Konwertuj między postacią profesjonalną a liniową
+	Justification of a display equation	Wyrównanie równania wyświetlanego w osobnym wierszu
+	Number the equation; the number sits at the right margin (or type # then the number)	Numeruj równanie; numer jest umieszczany przy prawym marginesie (lub wpisz # i numer)
+	Show the equation in the line of text	Wyświetl równanie w wierszu tekstu
+	Show the equation on a line of its own	Wyświetl równanie w osobnym wierszu
+	Type equations in LaTeX	Wpisuj równania w notacji LaTeX
+	Type equations in the linear format (UnicodeMath)	Wpisuj równania w formacie liniowym (UnicodeMath)
+	Type normal (non-math) text in the equation	Wpisz zwykły (niematematyczny) tekst w równaniu
+	Sides of a right triangle	Boki trójkąta prostokątnego
+	Circle area from its radius	Pole koła na podstawie promienia
+	Roots of ax²+bx+c	Pierwiastki trójmianu ax²+bx+c
+	Binomial expansion of (x+a)ⁿ	Rozwinięcie dwumianu (x+a)ⁿ
+	Power series of (1+x)ⁿ	Szereg potęgowy (1+x)ⁿ
+	Euler's identity	Tożsamość Eulera
+	Derivative as a limit	Pochodna jako granica
+	Exponential series	Szereg wykładniczy
+	Integral of e^(−x²)	Całka z e^(−x²)
+	Sine and cosine series of f(x)	Szereg sinusów i cosinusów funkcji f(x)
+	Sum or difference of sines	Suma lub różnica sinusów
+	Sum of cosines	Suma cosinusów
+	Normal probability density	Gęstość rozkładu normalnego
+	Bayes' rule	Twierdzenie Bayesa
+	Accents	Akcenty
+	Basic Math	Podstawowa matematyka
+	Boxed Formulas	Wzory w ramce
+	Cases and Stacks	Układy klamrowe i piętrowe
+	Common Accent Objects	Typowe obiekty z akcentem
+	Common Brackets	Typowe nawiasy
+	Common Fractions	Typowe ułamki
+	Common Functions	Typowe funkcje
+	Common Large Operators	Typowe duże operatory
+	Common Operator Structures	Typowe struktury operatorów
+	Common Operators	Typowe operatory
+	Common Radicals	Typowe pierwiastki
+	Common Subscripts and Superscripts	Typowe indeksy dolne i górne
+	Contour Integrals	Całki okrężne
+	Differentials	Różniczki
+	Dots	Kropki
+	Empty Matrices	Puste macierze
+	Functions	Funkcje
+	Geometry	Geometria
+	Greek Letters	Litery greckie
+	Hyperbolic Functions	Funkcje hiperboliczne
+	Identity Matrices	Macierze jednostkowe
+	Integrals	Całki
+	Inverse Functions	Funkcje odwrotne
+	Inverse Hyperbolic Functions	Odwrotne funkcje hiperboliczne
+	Letter-Like Symbols	Symbole literopodobne
+	Matrices with Brackets	Macierze w nawiasach
+	Negated Relations	Relacje zanegowane
+	Operator Structures	Struktury operatorów
+	Operators	Operatory
+	Other Large Operators	Inne duże operatory
+	Overbars and Underbars	Kreski górne i dolne
+	Products and Coproducts	Iloczyny i koprodukty
+	Radicals	Pierwiastki
+	Scripts	Indeksy
+	Single Brackets	Pojedyncze nawiasy
+	Sparse Matrices	Macierze rzadkie
+	Subscripts and Superscripts	Indeksy dolne i górne
+	Summations	Sumy
+	Trigonometric Functions	Funkcje trygonometryczne
+	Unions and Intersections	Sumy i iloczyny zbiorów
+	1×2 Empty Matrix	Pusta macierz 1×2
+	1×3 Empty Matrix	Pusta macierz 1×3
+	2×1 Empty Matrix	Pusta macierz 2×1
+	2×2 Empty Matrix	Pusta macierz 2×2
+	2×3 Empty Matrix	Pusta macierz 2×3
+	3×1 Empty Matrix	Pusta macierz 3×1
+	3×2 Empty Matrix	Pusta macierz 3×2
+	3×3 Empty Matrix	Pusta macierz 3×3
+	2×2 Determinant	Wyznacznik 2×2
+	2×2 Identity Matrix	Macierz jednostkowa 2×2
+	2×2 Identity Matrix (sparse)	Macierz jednostkowa 2×2 (rzadka)
+	3×3 Identity Matrix	Macierz jednostkowa 3×3
+	3×3 Identity Matrix (sparse)	Macierz jednostkowa 3×3 (rzadka)
+	2×2 Matrix in Brackets	Macierz 2×2 w nawiasach kwadratowych
+	2×2 Matrix in Double Bars	Macierz 2×2 w podwójnych kreskach pionowych
+	2×2 Matrix in Parentheses	Macierz 2×2 w nawiasach okrągłych
+	n×n Identity Matrix	Macierz jednostkowa n×n
+	n×n Matrix	Macierz n×n
+	A xor B	A xor B
+	Absolute value cases	Przypadki wartości bezwzględnej
+	Acute	Akcent ostry
+	Angle Brackets	Nawiasy kątowe
+	Angle Brackets with Separator	Nawiasy kątowe z separatorem
+	Angle Brackets with Two Separators	Nawiasy kątowe z dwoma separatorami
+	Baseline Dots	Kropki na linii bazowej
+	Binomial Coefficient	Współczynnik dwumianowy
+	Binomial Coefficient (angle)	Współczynnik dwumianowy (nawiasy kątowe)
+	Binomial Coefficient with Angle Brackets	Współczynnik dwumianowy w nawiasach kątowych
+	Boxed Formula	Wzór w ramce
+	Boxed Formula (example)	Wzór w ramce (przykład)
+	Braces	Nawiasy klamrowe
+	Braces with Separator	Nawiasy klamrowe z separatorem
+	Brackets	Nawiasy kwadratowe
+	Brackets with Separators	Nawiasy kwadratowe z separatorami
+	Breve	Brewis
+	Cases (Three Conditions)	Układ warunków (trzy warunki)
+	Cases (Two Conditions)	Układ warunków (dwa warunki)
+	Ceiling	Sufit
+	Change in y over change in x	Przyrost y przez przyrost x
+	Check	Daszek odwrócony
+	Circled Dot	Kropka w okręgu
+	Circled Plus	Plus w okręgu
+	Circled Times	Znak mnożenia w okręgu
+	Colon Equal	Dwukropek i znak równości
+	Contour Integral	Całka okrężna
+	Contour Integral with Limits	Całka okrężna z granicami
+	Contour Integral with Stacked Limits	Całka okrężna z granicami u góry i u dołu
+	Coproduct	Koprodukt
+	Coproduct with Limits	Koprodukt z granicami
+	Coproduct with Lower Limit	Koprodukt z dolną granicą
+	Coproduct with Subscript-Superscript Limits	Koprodukt z granicami w indeksach
+	Cosecant Function	Funkcja cosecans
+	Cosine 2x	Cosinus 2x
+	Cosine Function	Funkcja cosinus
+	Cotangent Function	Funkcja cotangens
+	Cube Root	Pierwiastek sześcienny
+	Delta Equal To	Równe z deltą
+	Delta over arrow	Delta nad strzałką
+	Diagonal Dots	Kropki ukośne
+	Differential	Różniczka
+	Differential theta	Różniczka theta
+	Differential x	Różniczka x
+	Differential y	Różniczka y
+	Dot	Kropka nad znakiem
+	Double Bar	Podwójna kreska nad znakiem
+	Double Dot	Dwie kropki nad znakiem
+	Double Integral	Całka podwójna
+	Double Integral with Limits	Całka podwójna z granicami
+	Double Integral with Stacked Limits	Całka podwójna z granicami u góry i u dołu
+	Double Left Arrow with Text Above	Podwójna strzałka w lewo z tekstem powyżej
+	Double Left Arrow with Text Below	Podwójna strzałka w lewo z tekstem poniżej
+	Double Left Right Arrow with Text Above	Podwójna strzałka w lewo i prawo z tekstem powyżej
+	Double Left Right Arrow with Text Below	Podwójna strzałka w lewo i prawo z tekstem poniżej
+	Double Right Arrow with Text Above	Podwójna strzałka w prawo z tekstem powyżej
+	Double Right Arrow with Text Below	Podwójna strzałka w prawo z tekstem poniżej
+	Double Square Brackets	Podwójne nawiasy kwadratowe
+	Double Vertical Bars	Podwójne kreski pionowe
+	Double summation	Suma podwójna
+	Equal Equal	Podwójny znak równości
+	Equal by Definition	Równe z definicji
+	Exponential	Funkcja wykładnicza
+	Floor	Podłoga
+	Grave	Akcent ciężki
+	Grouping Character Above	Znak grupujący powyżej
+	Grouping Character Below	Znak grupujący poniżej
+	Hat	Daszek
+	Hyperbolic Cosecant Function	Funkcja cosecans hiperboliczny
+	Hyperbolic Cosine Function	Funkcja cosinus hiperboliczny
+	Hyperbolic Cotangent Function	Funkcja cotangens hiperboliczny
+	Hyperbolic Secant Function	Funkcja secans hiperboliczny
+	Hyperbolic Sine Function	Funkcja sinus hiperboliczny
+	Hyperbolic Tangent Function	Funkcja tangens hiperboliczny
+	Hypotenuse	Przeciwprostokątna
+	Integral with Limits	Całka z granicami
+	Integral with Stacked Limits	Całka z granicami u góry i u dołu
+	Intersection	Iloczyn zbiorów
+	Intersection with Limits	Iloczyn zbiorów z granicami
+	Intersection with Lower Limit	Iloczyn zbiorów z dolną granicą
+	Intersection with Subscript-Superscript Limits	Iloczyn zbiorów z granicami w indeksach
+	Inverse Cosecant Function	Funkcja arcus cosecans
+	Inverse Cosine Function	Funkcja arcus cosinus
+	Inverse Cotangent Function	Funkcja arcus cotangens
+	Inverse Hyperbolic Cosecant Function	Funkcja area cosecans hiperboliczny
+	Inverse Hyperbolic Cosine Function	Funkcja area cosinus hiperboliczny
+	Inverse Hyperbolic Cotangent Function	Funkcja area cotangens hiperboliczny
+	Inverse Hyperbolic Secant Function	Funkcja area secans hiperboliczny
+	Inverse Hyperbolic Sine Function	Funkcja area sinus hiperboliczny
+	Inverse Hyperbolic Tangent Function	Funkcja area tangens hiperboliczny
+	Inverse Secant Function	Funkcja arcus secans
+	Inverse Sine Function	Funkcja arcus sinus
+	Inverse Tangent Function	Funkcja arcus tangens
+	Left Arrow with Text Above	Strzałka w lewo z tekstem powyżej
+	Left Arrow with Text Below	Strzałka w lewo z tekstem poniżej
+	Left Bracket Twice	Podwójny lewy nawias kwadratowy
+	Left Right Arrow Above	Strzałka w lewo i prawo powyżej
+	Left Right Arrow with Text Above	Strzałka w lewo i prawo z tekstem powyżej
+	Left Right Arrow with Text Below	Strzałka w lewo i prawo z tekstem poniżej
+	Left Subscript-Superscript	Lewy indeks dolny i górny
+	Leftwards Arrow Above	Strzałka w lewo powyżej
+	Leftwards Harpoon Above	Harpun w lewo powyżej
+	Limit	Granica
+	Limit Example	Przykład granicy
+	Linear Fraction	Ułamek liniowy
+	Logarithm	Logarytm
+	Logarithm with Base	Logarytm o podanej podstawie
+	Logical AND	Koniunkcja logiczna
+	Logical AND with Limits	Koniunkcja logiczna z granicami
+	Logical OR	Alternatywa logiczna
+	Logical OR with Limits	Alternatywa logiczna z granicami
+	Maximum	Maksimum
+	Maximum Example	Przykład maksimum
+	Measured By	Mierzone przez
+	Midline Dots	Kropki środkowe
+	Minimum	Minimum
+	Minus Equal	Minus i znak równości
+	Natural Logarithm	Logarytm naturalny
+	One half	Jedna druga
+	Outward Brackets	Nawiasy kwadratowe skierowane na zewnątrz
+	Overbar	Kreska górna
+	Overbrace	Klamra górna
+	Parentheses	Nawiasy okrągłe
+	Parentheses with Separator	Nawiasy okrągłe z separatorem
+	Partial Differential	Różniczka cząstkowa
+	Pi Over 2	Pi przez 2
+	Plus Equal	Plus i znak równości
+	Product	Iloczyn
+	Product of A	Iloczyn A
+	Product with Limits	Iloczyn z granicami
+	Product with Lower Limit	Iloczyn z dolną granicą
+	Product with Subscript-Superscript Limits	Iloczyn z granicami w indeksach
+	Quadratic Root	Pierwiastek równania kwadratowego
+	Radical with Degree	Pierwiastek ze stopniem
+	Right Arrow with Text Above	Strzałka w prawo z tekstem powyżej
+	Right Arrow with Text Below	Strzałka w prawo z tekstem poniżej
+	Right Bracket Twice	Podwójny prawy nawias kwadratowy
+	Rightwards Arrow Above	Strzałka w prawo powyżej
+	Rightwards Harpoon Above	Harpun w prawo powyżej
+	Secant Function	Funkcja secans
+	Sine Function	Funkcja sinus
+	Sine theta	Sinus theta
+	Single Left Angle	Pojedynczy lewy nawias kątowy
+	Single Left Bar	Pojedyncza lewa kreska pionowa
+	Single Left Brace	Pojedynczy lewy nawias klamrowy
+	Single Left Bracket	Pojedynczy lewy nawias kwadratowy
+	Single Left Parenthesis	Pojedynczy lewy nawias okrągły
+	Single Right Brace	Pojedynczy prawy nawias klamrowy
+	Single Right Bracket	Pojedynczy prawy nawias kwadratowy
+	Single Right Parenthesis	Pojedynczy prawy nawias okrągły
+	Skewed Fraction	Ułamek ukośny
+	Small change	Mały przyrost
+	Square Root	Pierwiastek kwadratowy
+	Square Root with Degree	Pierwiastek dowolnego stopnia
+	Square Union	Kwadratowa suma zbiorów
+	Stack Object	Obiekt piętrowy
+	Stack Object (Three)	Obiekt piętrowy (trzy poziomy)
+	Stacked Fraction	Ułamek zwykły
+	Stacked, no bar	Układ piętrowy bez kreski
+	Subscript-Superscript	Indeks dolny i górny
+	Summation	Suma
+	Summation from 0 to n	Suma od 0 do n
+	Summation over binomials	Suma po dwumianach
+	Summation with Limits	Suma z granicami
+	Summation with Lower Limit	Suma z dolną granicą
+	Summation with Subscript Limit	Suma z granicą w indeksie dolnym
+	Summation with Subscript-Superscript Limits	Suma z granicami w indeksach
+	Surface Integral	Całka powierzchniowa
+	Surface Integral with Limits	Całka powierzchniowa z granicami
+	Surface Integral with Stacked Limits	Całka powierzchniowa z granicami u góry i u dołu
+	Tangent Function	Funkcja tangens
+	Tangent formula	Wzór na tangens
+	Text over Colon Equal	Tekst nad znakiem przypisania
+	Text over Equal	Tekst nad znakiem równości
+	Tilde	Tylda
+	Triple Dot	Trzy kropki nad znakiem
+	Triple Integral	Całka potrójna
+	Triple Integral with Limits	Całka potrójna z granicami
+	Triple Integral with Stacked Limits	Całka potrójna z granicami u góry i u dołu
+	Underbar	Kreska dolna
+	Underbrace	Klamra dolna
+	Union	Suma zbiorów
+	Union of intersections	Suma iloczynów zbiorów
+	Union with Limits	Suma zbiorów z granicami
+	Union with Lower Limit	Suma zbiorów z dolną granicą
+	Union with Plus	Suma rozłączna z plusem
+	Union with Subscript-Superscript Limits	Suma zbiorów z granicami w indeksach
+	Up Diagonal Dots	Kropki ukośne w górę
+	Vector A	Wektor A
+	Vector AB	Wektor AB
+	Vertical Bars	Kreski pionowe
+	Vertical Dots	Kropki pionowe
+	Volume Integral	Całka objętościowa
+	Volume Integral with Limits	Całka objętościowa z granicami
+	Volume Integral with Stacked Limits	Całka objętościowa z granicami u góry i u dołu
+	Yields	Daje w wyniku
+	x bar	x z kreską
+	All - Linear	Wszystkie — liniowe
+	All - Professional	Wszystkie — profesjonalne
+	Current - Linear	Bieżące — liniowe
+	Current - Professional	Bieżące — profesjonalne
+	Centered as Group	Wyśrodkowane jako grupa
+	✓ None	✓ Brak
+	Accessibility Pane	Panel dostępności
+	Alt Text Pane	Panel tekstu alternatywnego
+	Alt\nText	Tekst\nalternatywny
+	View Alt Text…	Wyświetl tekst alternatywny…
+	Mark as decorative	Oznacz jako element dekoracyjny
+	Title:	Tytuł:
+	Errors ({n})	Błędy ({n})
+	Warnings ({n})	Ostrzeżenia ({n})
+	Tips ({n})	Wskazówki ({n})
+	No accessibility issues found.	Nie znaleziono problemów z dostępnością.
+	Describe what this object shows, for people who can't see it.	Opisz, co przedstawia ten obiekt, dla osób, które nie mogą go zobaczyć.
+	Decorative objects only add visual interest: screen readers skip them.	Obiekty dekoracyjne pełnią wyłącznie funkcję wizualną — czytniki ekranu je pomijają.
+	Describe what this table shows, for people who can't see it.	Opisz, co przedstawia ta tabela, dla osób, które nie mogą jej zobaczyć.
+	Select a picture, shape, chart or table to describe it.	Zaznacz obraz, kształt, wykres lub tabelę, aby dodać opis.
+	Developer	Deweloper
+	Controls	Formanty
+	Rich Text Content Control	Formant zawartości tekstu sformatowanego
+	Plain Text Content Control	Formant zawartości zwykłego tekstu
+	Picture Content Control	Formant zawartości obrazu
+	Building Block Gallery Content Control	Formant zawartości galerii bloków konstrukcyjnych
+	Check Box Content Control	Formant zawartości pola wyboru
+	Combo Box Content Control	Formant zawartości pola kombi
+	Drop-Down List Content Control	Formant zawartości listy rozwijanej
+	Date Picker Content Control	Formant zawartości wyboru daty
+	Repeating Section Content Control	Formant zawartości powtarzającej się sekcji
+	Design Mode	Tryb projektowania
+	Content Control at Selection	Formant zawartości w zaznaczeniu
+	Toggle Check Box	Przełącz pole wyboru
+	Choose List Item	Wybierz element listy
+	Set Date	Ustaw datę
+	Remove Content Control	Usuń formant zawartości
+	Content Control Properties	Właściwości formantu zawartości
+	Tag	Znacznik
+	Placeholder text	Tekst zastępczy
+	Can't be deleted	Nie można usunąć
+	Contents can't be edited	Nie można edytować zawartości
+	Remove the control once edited	Usuń formant po edycji
+	Allow line breaks	Zezwalaj na podziały wierszy
+	Date format	Format daty
+	Checked symbol	Symbol zaznaczenia
+	Unchecked symbol	Symbol braku zaznaczenia
+	List entries	Elementy listy
+	Display text	Tekst wyświetlany
+	Value	Wartość
+	Today	Dzisiaj
+	Put the caret in a content control first.	Najpierw umieść kursor wewnątrz formantu zawartości.
+	A, B, C, …	A, B, C, …
+	Above the item	Nad elementem
+	Accessed on	Data dostępu
+	Add New Source…	Dodaj nowe źródło…
+	Add the chapter number	Dodaj numer rozdziału
+	Atmosphere	Atmosfera
+	Below the item	Pod elementem
+	Book	Książka
+	Book title	Tytuł książki
+	Caption Numbering	Numerowanie podpisów
+	Caption text	Tekst podpisu
+	Caption:	Podpis:
+	Chapter in a book	Rozdział w książce
+	Chapters begin at:	Rozdziały zaczynają się od:
+	Collect entries from:	Zbieraj pozycje z:
+	Columns:	Kolumny:
+	Conference	Konferencja
+	Conference paper	Referat konferencyjny
+	Container Title	Tytuł publikacji nadrzędnej
+	Create Source	Utwórz źródło
+	Cross-reference:	Odsyłacz:
+	Custom Table of Contents…	Niestandardowy spis treści…
+	DOI	DOI
+	Day	Dzień
+	Delete Label	Usuń etykietę
+	Edit Source	Edytuj źródło
+	Edition	Wydanie
+	Edit…	Edytuj…
+	Entry marked.	Hasło zostało oznaczone.
+	Example: {sample}	Przykład: {sample}
+	Figure	Rysunek
+	Film	Film
+	Heading styles (levels 1–{n})	Style nagłówków (poziomy 1–{n})
+	I, II, III, …	I, II, III, …
+	Include page numbers	Dołącz numery stron
+	Indented	Z wcięciem
+	Institution	Instytucja
+	Ionosphere	Jonosfera
+	Issue	Numer wydania
+	Journal	Czasopismo naukowe
+	Label:	Etykieta:
+	Last, First; Last, First	Nazwisko, Imię; Nazwisko, Imię
+	Leave the label out of the caption	Pomiń etykietę w podpisie
+	Letter headings	Nagłówki literowe
+	Levels:	Poziomy:
+	Link entries to their headings	Połącz pozycje z nagłówkami
+	Made from the author and year when empty	Tworzony z autora i roku, gdy pole jest puste
+	Magazine or newspaper article	Artykuł w czasopiśmie lub gazecie
+	Main entry:	Hasło główne:
+	Mark	Oznacz
+	Mark All	Oznacz wszystkie
+	Mark Entry…	Oznacz hasło…
+	Mark Index Entry	Oznacz hasło indeksu
+	Mesosphere	Mezosfera
+	Month	Miesiąc
+	New Label	Nowa etykieta
+	New Label…	Nowa etykieta…
+	New…	Nowe…
+	No sources yet.	Brak źródeł.
+	Numbering…	Numerowanie…
+	Options…	Opcje…
+	Other	Inne
+	Other styles and their TOC level:	Inne style i ich poziom w spisie treści:
+	Outline levels	Poziomy konspektu
+	Page number style	Styl numeracji stron
+	Page numbers at the right margin	Numery stron przy prawym marginesie
+	Page title	Tytuł strony
+	Pages of bookmark:	Strony zakładki:
+	Periodical	Czasopismo
+	Position:	Położenie:
+	Publisher	Wydawca
+	Run-in	W jednym wierszu
+	See	Zobacz
+	Separator:	Separator:
+	Show every bibliography field	Pokaż wszystkie pola bibliografii
+	Site name	Nazwa witryny
+	Source Manager	Menedżer źródeł
+	Source type:	Typ źródła:
+	Sources in this document:	Źródła w tym dokumencie:
+	Styles:	Style:
+	Subentry:	Podhasło:
+	TC entry fields	Pola wpisów spisu treści (TC)
+	Tab leader:	Znak wiodący tabulatora:
+	Table of Contents Options	Opcje spisu treści
+	Table of Contents Styles	Style spisu treści
+	This page	Ta strona
+	Type:	Typ:
+	URL	URL
+	Volume	Tom
+	Website	Witryna internetowa
+	Year	Rok
+	a, b, c, …	a, b, c, …
+	i, ii, iii, …	i, ii, iii, …
+	{n} entries marked.	Oznaczone hasła: {n}.
+	Lasso Select	Zaznaczanie lassem
+	Move Selected Ink	Przenieś zaznaczone pismo
+	Delete Selected Ink	Usuń zaznaczone pismo
+	Recolor Selected Ink	Zmień kolor zaznaczonego pisma
+	Add Pen	Dodaj pióro
+	Remove Pen	Usuń pióro
+	Ink to Shape	Pismo na kształt
+	Convert to Shapes	Konwertuj na kształty
+	Ink Replay	Odtwarzanie pisma
+	Add\nPen	Dodaj\npióro
+	Rewind	Przewiń do początku
+	Forward	Do przodu
+	Stroke {n} of {total}	Pociągnięcie {n} z {total}
+	1. Formatting restrictions	1. Ograniczenia formatowania
+	2. Editing restrictions	2. Ograniczenia edytowania
+	3. Start enforcement	3. Rozpocznij wymuszanie ochrony
+	<< Less	<< Mniej
+	Another file	Inny plik
+	Apply as you type	Stosuj podczas pisania
+	AutoCorrect	Autokorekta
+	AutoFormat As You Type	Autoformatowanie podczas pisania
+	Automatic bulleted lists	Automatyczne listy punktowane
+	Automatic numbered lists	Automatyczne listy numerowane
+	Border lines	Linie obramowania
+	Capitalize first letter of sentences	Pierwsza litera zdania wielką literą
+	Capitalize first letter of table cells	Pierwsza litera komórki tabeli wielką literą
+	Capitalize names of days	Nazwy dni tygodnia wielką literą
+	Case changes	Zmiany wielkości liter
+	Character level	Poziom znaków
+	Checked styles are allowed:	Dozwolone są zaznaczone style:
+	Combine Documents	Połącz dokumenty
+	Compare Documents	Porównaj dokumenty
+	Compared: {changes} changes	Porównano — liczba zmian: {changes}
+	Comparing with another file needs the desktop app.	Porównywanie z innym plikiem wymaga aplikacji komputerowej.
+	Comparison settings	Ustawienia porównywania
+	Don't capitalize after:	Nie zamieniaj na wielką literę po:
+	Editing in this document is restricted.	Edytowanie tego dokumentu jest ograniczone.
+	Every change is recorded as a tracked change.	Każda zmiana jest rejestrowana w trybie śledzenia zmian.
+	Everyone	Wszyscy
+	Exceptions (optional)	Wyjątki (opcjonalnie)
+	Exceptions…	Wyjątki…
+	Fields	Pola
+	Filling in forms	Wypełnianie formularzy
+	Find Next Editable Region	Znajdź następny obszar edytowalny
+	Footnotes and endnotes	Przypisy dolne i końcowe
+	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Porównywane są formatowanie, wielkość liter, białe znaki i tabele; pozostałe ustawienia są zachowywane na później.
+	Fractions (1/2) as fraction characters (½)	Ułamki (1/2) na znaki ułamków (½)
+	Headers and footers	Nagłówki i stopki
+	Hyphens (--) as dashes (—)	Łączniki (--) na pauzy (—)
+	In equations, typing a name after a backslash replaces it with its symbol.	W równaniach wpisanie nazwy po ukośniku odwrotnym zastępuje ją odpowiednim symbolem.
+	Internet addresses as links	Adresy internetowe na łącza
+	Label changes with:	Oznaczaj zmiany etykietą:
+	Limit formatting to a selection of styles	Ogranicz formatowanie do wybranych stylów
+	Math AutoCorrect	Autokorekta matematyczna
+	More >>	Więcej >>
+	Moves	Przeniesienia
+	New document	Nowy dokument
+	No changes (read only)	Bez zmian (tylko do odczytu)
+	Only allow this kind of editing:	Zezwalaj tylko na następujący typ edycji:
+	Only comments can be added, except in regions marked editable.	Można dodawać wyłącznie komentarze, z wyjątkiem obszarów oznaczonych jako edytowalne.
+	Only form fields can be filled in.	Można wypełniać wyłącznie pola formularzy.
+	Only the allowed styles can be applied.	Można stosować wyłącznie dozwolone style.
+	Ordinals (1st) as superscript	Liczebniki porządkowe (1st) w indeksie górnym
+	Original document	Dokument oryginalny
+	This password type isn't supported.	Ten typ hasła nie jest obsługiwany.
+	Replace as you type	Zamieniaj podczas pisania
+	Replace text as you type	Zamieniaj tekst podczas pisania
+	Replace:	Zamień:
+	Revised document	Dokument zmieniony
+	Select text, then tick who can still edit it.	Zaznacz tekst, a następnie wskaż osoby uprawnione do jego edycji.
+	Settings…	Ustawienia…
+	Show changes at:	Pokaż zmiany na poziomie:
+	Show changes in:	Pokaż zmiany w:
+	Smart quotes instead of straight quotes	Cudzysłowy drukarskie zamiast prostych
+	Start Enforcing Protection	Rozpocznij wymuszanie ochrony
+	Stop Protection	Zatrzymaj ochronę
+	Text boxes	Pola tekstowe
+	The document is read only, except for regions marked editable.	Dokument jest tylko do odczytu, z wyjątkiem obszarów oznaczonych jako edytowalne.
+	The password is optional; without it anyone can stop the protection.	Hasło jest opcjonalne; bez niego każdy może wyłączyć ochronę.
+	This document	Ten dokument
+	Tracked changes	Śledzenie zmian
+	Type the password to stop the protection.	Wpisz hasło, aby zatrzymać ochronę.
+	White space	Białe znaki
+	With:	Na:
+	Word level	Poziom wyrazów
+	Change Chart Type	Zmień typ wykresu
+	Chart Design	Projektowanie wykresu
+	Type	Typ
+	Edit Data	Edytuj dane
+	Chart Title	Tytuł wykresu
+	Chart Layouts	Układy wykresów
+	Add Chart Element	Dodaj element wykresu
+	Legend	Legenda
+	Data Labels	Etykiety danych
+	Above Chart	Nad wykresem
+	Insert Chart	Wstaw wykres
+	Clustered Column	Kolumnowy grupowany
+	Stacked Column	Kolumnowy skumulowany
+	Clustered Bar	Słupkowy grupowany
+	Stacked Bar	Słupkowy skumulowany
+	Area	Warstwowy
+	Pie	Kołowy
+	Doughnut	Pierścieniowy
+	Scatter	Punktowy
+	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nie jest liczbą.
+	Category {n}	Kategoria {n}
+	Series {n}	Seria {n}
+	Type the categories down the side and a column of values per series.	Wpisz kategorie w wierszach po lewej stronie oraz kolumny wartości dla poszczególnych serii.
+	Categories	Kategorie
+	Series name	Nazwa serii
+	Remove series	Usuń serię
+	Remove row	Usuń wiersz
+	Add Row	Dodaj wiersz
+	Add Series	Dodaj serię
+	Edit\nData	Edytuj\ndane
+	Change\nChart Type	Zmień typ\nwykresu
+	WordArt Styles	Style WordArt
+	Text Fill	Wypełnienie tekstu
+	Text Outline	Kontur tekstu
+	Transform	Przekształć
+	No Fill	Brak wypełnienia
+	No Outline	Brak konturu
+	Reflection	Odbicie
+	No Reflection	Brak odbicia
+	No Transform	Brak przekształcenia
+	Connect Shapes	Połącz kształty
+	Straight Connector	Łącznik prosty
+	Straight Arrow Connector	Łącznik prosty ze strzałką
+	Elbow Connector	Łącznik łamany
+	Elbow Arrow Connector	Łącznik łamany ze strzałką
+	Curved Connector	Łącznik zaokrąglony
+	Curved Arrow Connector	Łącznik zaokrąglony ze strzałką
+	Arch Up	Łuk w górę
+	Arch Down	Łuk w dół
+	Slant Up	Pochylenie w górę
+	Slant Down	Pochylenie w dół
+	Inflate	Wypukłość
+	Deflate	Wklęsłość
+	Chevron Up	Szewron w górę
+	Chevron Down	Szewron w dół
+	Triangle Up	Trójkąt w górę
+	Triangle Down	Trójkąt w dół
+	Solid Accent	Pełny akcent
+	Light with Outline	Jasny z konturem
+	Hollow	Sam kontur
+	Accent Gradient	Gradient akcentu
+	Dark with Shadow	Ciemny z cieniem
+	Soft Glow	Miękka poświata
+	Accent with Reflection	Akcent z odbiciem
+	Warm Gradient with Outline	Ciepły gradient z konturem
+	Add line numbering	Dodaj numerowanie wierszy
+	Add to Document	Dodaj do dokumentu
+	Address labels	Etykiety adresowe
+	Arabic	Arabski
+	Auto	Automatycznie
+	Automatically hyphenate document	Automatycznie dziel wyrazy w dokumencie
+	Chinese (Simplified)	Chiński (uproszczony)
+	Chinese (Traditional)	Chiński (tradycyjny)
+	Column:	Kolumna:
+	Count by:	Numeruj co:
+	Czech	Czeski
+	Danish	Duński
+	Delivery address:	Adres odbiorcy:
+	Detect language automatically	Wykrywaj język automatycznie
+	Do not check spelling or grammar	Nie sprawdzaj pisowni ani gramatyki
+	Dutch	Niderlandzki
+	Envelope size:	Rozmiar koperty:
+	Estonian	Estoński
+	Finnish	Fiński
+	French (France)	Francuski (Francja)
+	From text:	Od tekstu:
+	Full page of the same label	Cała strona tej samej etykiety
+	German (Germany)	Niemiecki (Niemcy)
+	Greek	Grecki
+	Hebrew	Hebrajski
+	Hyphenate at:	Podziel w miejscu:
+	Hyphenate words in CAPS	Dziel wyrazy pisane WIELKIMI LITERAMI
+	Hyphenation Options…	Opcje dzielenia wyrazów…
+	Hyphenation zone:	Strefa dzielenia wyrazów:
+	Italian	Włoski
+	Japanese	Japoński
+	Korean	Koreański
+	Limit consecutive hyphens to:	Limit kolejnych podziałów:
+	Line Numbering Options…	Opcje numerowania wierszy…
+	Manual Hyphenation	Ręczne dzielenie wyrazów
+	Manual hyphenation is complete.	Ręczne dzielenie wyrazów zostało zakończone.
+	Manual…	Ręcznie…
+	Mark selected text as:	Oznacz zaznaczony tekst jako:
+	New Document	Nowy dokument
+	No limit	Bez limitu
+	Norwegian (Bokmål)	Norweski (Bokmål)
+	Numbering:	Numerowanie:
+	Omit	Pomiń
+	One label per recipient	Jedna etykieta na odbiorcę
+	Portuguese (Brazil)	Portugalski (Brazylia)
+	Portuguese (Portugal)	Portugalski (Portugalia)
+	Return address labels	Etykiety z adresem zwrotnym
+	Return address:	Adres nadawcy:
+	Row:	Wiersz:
+	Russian	Rosyjski
+	Serbian (Cyrillic)	Serbski (cyrylica)
+	Serbian (Latin)	Serbski (łaciński)
+	Set As Default	Ustaw jako domyślny
+	Shipping labels	Etykiety wysyłkowe
+	Single label	Pojedyncza etykieta
+	Spanish (Mexico)	Hiszpański (Meksyk)
+	Spanish (Spain)	Hiszpański (Hiszpania)
+	Swedish	Szwedzki
+	Turkish	Turecki
+	Ukrainian	Ukraiński
+	{language} is now the document's default language.	Domyślnym językiem dokumentu jest teraz {language}.

@@ -639,9 +639,7 @@ fn polish_covers_every_key_of_every_other_catalog() {
     use std::collections::HashSet;
     let keys = |source| parse_entries(source).0.into_iter().map(|e| e.source).collect::<HashSet<_>>();
     let polish = keys(lang("pl").0.source);
-    // Russian also translates the built-in style names and the equation gallery, which no other
-    // catalog does yet; Polish matches every other catalog.
-    for other in Lang::all().filter(|l| *l != Lang::EN && !matches!(l.code(), "pl" | "ru")) {
+    for other in Lang::all().filter(|l| *l != Lang::EN && l.code() != "pl") {
         let mut missing: Vec<String> = keys(other.0.source).difference(&polish).cloned().collect();
         missing.sort();
         assert!(missing.is_empty(), "pl lacks {}'s {missing:?}", other.code());
@@ -654,6 +652,7 @@ fn polish_covers_every_key_of_every_other_catalog() {
     assert_eq!(tr(pl, "Save"), "Zapisz");
     assert_eq!(tr(pl, "Spelling & Grammar"), "Pisownia i gramatyka");
     assert_eq!(tr(pl, "Polish"), "Polski");
+    assert_eq!(trc(pl, "preview", "Title"), "Tytuł");
     assert_eq!(tr(pl, "unknown future label"), "unknown future label");
     assert_eq!(fmt(tr(pl, "Exported {path}"), &[("path", "draft-{words}.docx")]), "Wyeksportowano: draft-{words}.docx");
     assert_eq!(fmt(tr(pl, "Page {page} of {pages}"), &[("page", "3"), ("pages", "9")]), "Strona 3 z 9");
@@ -666,6 +665,8 @@ fn polish_covers_every_key_of_every_other_catalog() {
     set_current(pl);
     assert_eq!(location("Review › Proofing"), "Recenzja › Sprawdzanie");
     assert_eq!(prefixed("Undo", "Bold"), "Cofnij: Pogrubienie");
+    assert_eq!(builtin_style_name("Heading 1"), "Nagłówek 1");
+    assert_eq!(builtin_style_name("Heading 7"), "Nagłówek 7");
     set_current(Lang::EN);
 }
 
